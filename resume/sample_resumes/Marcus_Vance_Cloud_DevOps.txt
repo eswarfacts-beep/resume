@@ -1,0 +1,29 @@
+Marcus Vance
+Email: marcus.vance@opscloud.net | Phone: (206) 555-0199
+LinkedIn: https://linkedin.com/in/marcus-vance-cloud
+GitHub: https://github.com/marcus-vance-devops
+
+Professional Summary
+Lead DevOps & Cloud Platform Engineer with 4+ years of hands-on experience provisioning infrastructure as code, maintaining Kubernetes multi-cluster environments, and building automated CI/CD deployment pipelines on AWS and Linux platforms.
+
+Technical Skills
+• Cloud Platforms: AWS, Microsoft Azure, GCP
+• DevOps & Orchestration: Kubernetes, Docker, Terraform, Ansible, Helm, ArgoCD
+• CI/CD & Automation: GitHub Actions, Jenkins, GitLab CI, Bash, Python
+• Monitoring & Observability: Prometheus, Grafana, Datadog, CloudWatch
+• Infrastructure & Networking: Linux, Ubuntu, Nginx, REST API, Microservices
+
+Professional Experience
+Senior DevOps Engineer | Apex Cloud Networks (2022 - Present)
+• Architected and maintained production Kubernetes (EKS) clusters on AWS with 99.99% uptime.
+• Automated multi-environment infrastructure provisioning with Terraform and Ansible.
+• Configured Prometheus alerts and Grafana dashboards for real-time latency and error tracking.
+
+Cloud Operations Engineer | Zenith Infrastructure (2020 - 2022)
+• Built automated CI/CD build and deploy workflows using Jenkins and GitHub Actions.
+• Managed Docker container image registries and vulnerability scanning pipelines.
+• Automated repetitive Linux server administrative tasks using Bash and Python scripts.
+
+Education
+B.S. in Information Technology & Systems | University of Washington (2016 - 2020)
+

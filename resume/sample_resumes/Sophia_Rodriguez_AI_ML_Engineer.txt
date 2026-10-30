@@ -1,0 +1,29 @@
+Sophia Rodriguez
+Email: sophia.rodriguez@aimail.org | Phone: (650) 412-9876
+LinkedIn: https://linkedin.com/in/sophia-rodriguez-ai
+GitHub: https://github.com/sophia-ml
+
+Professional Summary
+AI / Machine Learning Engineer with 4+ years of experience developing deep learning architectures, fine-tuning large language models (LLMs), and designing production semantic search and retrieval-augmented generation (RAG) pipelines.
+
+Technical Skills
+• Languages: Python, SQL, C++, Bash
+• AI / Machine Learning: Deep Learning, PyTorch, TensorFlow, Scikit-Learn, NLP, LLMs, LangChain, LlamaIndex, Transformers, Hugging Face, Computer Vision
+• Data Engineering: Pandas, NumPy, SciPy, Apache Spark, Vector Embeddings, ChromaDB, Pinecone
+• Cloud & MLOps: Docker, Kubernetes, AWS, Linux, Git, CI/CD, FastAPI, REST API
+
+Professional Experience
+Machine Learning Engineer | Cognitive AI Inc. (2022 - Present)
+• Engineered semantic search matching system utilizing transformer embeddings and vector databases.
+• Developed and fine-tuned LLM inference pipelines with PyTorch and LangChain, reducing latency by 35%.
+• Containerized ML inference services using Docker and deployed on AWS with FastAPI backends.
+
+Data Science & ML Specialist | NexaTech Solutions (2020 - 2022)
+• Built predictive classification and regression models using Scikit-Learn and Pandas.
+• Implemented natural language processing (NLP) pipelines for automated document classification.
+• Collaborated with cross-functional engineering teams using Git and Agile workflows.
+
+Education
+M.S. in Artificial Intelligence | Stanford University (2018 - 2020)
+B.S. in Computer Engineering | University of Michigan (2014 - 2018)
+

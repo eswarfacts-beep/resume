@@ -1,0 +1,29 @@
+Alex Chen
+Email: alex.chen@techmail.io | Phone: (415) 890-2341
+LinkedIn: https://linkedin.com/in/alexchen-dev
+GitHub: https://github.com/alexchen-cloud
+
+Professional Summary
+Senior Full-Stack Software Engineer with 5+ years of experience architecting and building high-concurrency cloud web applications and microservices. Expert in modern JavaScript/TypeScript ecosystems, distributed relational databases, and containerized cloud infrastructure.
+
+Technical Skills
+• Languages: TypeScript, JavaScript, Python, SQL, HTML, CSS
+• Frameworks & Libraries: React, Next.js, Node.js, Express, REST API, GraphQL, Tailwind CSS
+• Databases: PostgreSQL, Redis, MongoDB
+• Cloud & DevOps: AWS, Docker, GitHub Actions, CI/CD, Linux, Nginx
+• Tools & Practices: Git, Jira, Agile Methodology, Unit Testing, Microservices
+
+Professional Experience
+Senior Software Engineer | CloudScale Systems (2022 - Present)
+• Architected scalable web frontend using React and Next.js, improving page load speeds by 42%.
+• Built high-throughput backend services using Node.js and TypeScript connected to PostgreSQL.
+• Containerized services using Docker and configured automated deployments via GitHub Actions to AWS.
+
+Full-Stack Developer | InnovateTech Labs (2019 - 2022)
+• Developed responsive web user interfaces using React, Redux, and modern CSS.
+• Implemented RESTful APIs and optimized SQL database queries for performance.
+• Participated in daily Agile standups, code reviews, and architectural planning sessions.
+
+Education
+B.S. in Computer Science | University of California, Berkeley (2015 - 2019)
+
